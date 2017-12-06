@@ -9,8 +9,9 @@ a=readFormula(filename)
 
 b=doSolve(a[0], a[1])
 console.log("\n")
-console.log("satisfability:")
+console.log("isSat:")
 console.log(b[1])
+console.log("satisfyingAssigment:")	
 console.log(b[0])
 
 
