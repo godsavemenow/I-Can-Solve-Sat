@@ -11,7 +11,7 @@ b=doSolve(a[0], a[1])
 console.log("\n")
 console.log("isSat:")
 console.log(b[1])
-console.log("satisfyingAssigment:")	
+console.log("satisfyingAssignment:")	
 console.log(b[0])
 
 
