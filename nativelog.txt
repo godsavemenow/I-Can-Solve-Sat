@@ -21,7 +21,7 @@ Current Java version: ""
 Update Java Version
 Runtime outdated!
 Runtime version should be should be 1.8.0_25
-Loaded upgrade id: 1425367501
+Loaded upgrade id: 0099088890
 Using new launcher as we're in the rollout!
 We need to extract the launcher library, it doesn't exist!
 Game launcher outdated!
